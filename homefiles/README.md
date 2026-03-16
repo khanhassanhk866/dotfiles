@@ -25,4 +25,9 @@ Alias ideas were inspired by:
 - https://github.com/mathiasbynens/dotfiles
 - https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
+### Generative AI Usage
 
+OpenAI was used to help generate the installation script.
+
+Prompt used:
+"Create a bash script that backs up an existing .bash_aliases file and creates a symbolic link to a repository version in the user's home directory. The script should also prompt the user to reload their environment."
